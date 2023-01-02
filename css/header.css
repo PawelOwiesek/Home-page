@@ -3,8 +3,17 @@
     display: flex;
     justify-content: space-around;
     border: 2px solid #000000;
-    box-shadow:21px -8px 25px 18px #12c0ff; ;
+    box-shadow: 21px -8px 25px 18px #12c0ff;
+    ;
     flex-wrap: wrap;
+}
+
+.header__button {
+    height: 30px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-top: 5px;
 }
 
 .header__title {
@@ -37,16 +46,18 @@
 }
 
 .header__jpg {
-    padding:40px;
+    padding: 40px;
     max-width: 30%;
     width: 270px;
     border-radius: 172px;
 }
-.header__span{
+
+.header__span {
     font-size: 45px;
-    color:#ffffff;
+    color: #ffffff;
 }
-.header__strong{
+
+.header__strong {
     font-size: 60px;
     color: #fa0a0a;
 }

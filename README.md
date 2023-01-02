@@ -1,4 +1,4 @@
-# Pawel Owiesek-moja strona
+# Pawel Owiesek-my page-in progress
 ## Demo
 https://pawelowiesek.github.io/Home-page/
 ### Page-gif:

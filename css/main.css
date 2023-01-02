@@ -17,23 +17,32 @@
     font-size: 55px;
     color: #e60b0b;
 }
-.section__txt{
+
+.section__txt {
     color: #f0f8ff;
     font-size: 25px;
-    padding:10px;
-    margin:10px;
+    padding: 10px;
+    margin: 10px;
 }
-.section__strong{
+
+.section__strong {
     color: #e60b0b;
 }
-.section__table{
+
+.section__table {
+    cursor: pointer;
     border-collapse: collapse;
-    
+
 }
-.theader{
+
+.theader {
     color: #f0f8ff;
-    border:2px solid blueviolet;
+    border: 2px solid blueviolet;
     font-size: 25px;
     text-align: center;
     padding: 10px;
+}
+
+.section__table--tr:hover {
+    background-color: #696969;
 }

@@ -1,0 +1,14 @@
+.footer {
+    margin-top: 60px;
+    background-color: #0e0d0d;
+    border: 2px solid #000000;
+    box-shadow: 21px -8px 25px 18px #12c0ff;
+    overflow-x: auto;
+}
+
+.footer__txt {
+    color: #f0f8ff;
+    font-size: 25px;
+    padding: 10px;
+    margin: 10px;
+}

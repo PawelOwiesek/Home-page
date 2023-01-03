@@ -28,6 +28,11 @@
 .section__strong {
     color: #e60b0b;
 }
+.section__table--cap{
+    color: #e60b0b;
+    text-align: right;
+    caption-side: bottom;
+}
 
 .section__table {
     cursor: pointer;

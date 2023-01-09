@@ -4,10 +4,10 @@
     }
 
     const changeBackground = () => {
-        const header__themName = document.querySelector(".js-header__themeName");
+        const headerThemeName = document.querySelector(".js-headerThemeName");
         const bodyElement = document.querySelector(".body");
         bodyElement.classList.toggle("light");
-        header__themName.innerText = bodyElement.classList.contains("light") ? "dark" : "light";
+        headerThemeName.innerText = bodyElement.classList.contains("light") ? "dark" : "light";
     }
 
     const init = () => {

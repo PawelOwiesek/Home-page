@@ -3,8 +3,7 @@
     display: flex;
     justify-content: space-around;
     border: 2px solid #000000;
-    box-shadow: 21px -8px 25px 18px #12c0ff;
-    ;
+    box-shadow: 7px -10px 19px 1px #12c0ff;
     flex-wrap: wrap;
 }
 
@@ -12,8 +11,11 @@
     height: 30px;
     text-align: center;
     font-size: 20px;
-    border-radius: 20px;
-    margin-top: 5px;
+    margin-bottom: 10px;
+    border:none;
+}
+.header__button:hover{
+    background-color: teal;
 }
 
 .header__title {
@@ -51,7 +53,7 @@ background-color: #e6dfdfe3;
 
 .header__jpg {
     padding: 21px;
-    max-width: 30%;
+    max-width: 40%;
     width: 150px;
     border-radius: 180px;
 }

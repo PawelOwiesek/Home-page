@@ -6,21 +6,21 @@
 
 .sections {
     margin-top: 60px;
-    background-color: #0e0d0d;
+    background-color: #3d3636;
     border: 2px solid #000000;
-    box-shadow: 13px -6px 19px 1px #12c0ff;;
+    box-shadow: 13px -6px 19px 1px #12c0ff;
     overflow-x: auto;
 }
 
 .section__title {
     text-align: center;
-    font-size: 55px;
+    font-size: 35px;
     color: #e60b0b;
 }
 
 .section__txt {
     color: #f0f8ff;
-    font-size: 25px;
+    font-size: 20px;
     padding: 10px;
     margin: 10px;
 }

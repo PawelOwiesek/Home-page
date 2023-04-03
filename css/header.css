@@ -13,6 +13,7 @@
     font-size: 20px;
     margin-bottom: 10px;
     border: none;
+    border-radius: 25px;
 }
 
 .header__button:hover {
@@ -55,9 +56,8 @@
 
 .header__jpg {
     padding: 21px;
-    max-width: 50%;
-    width: 150px;
-    border-radius: 180px;
+    max-width: 250px;
+    border-radius: 50%;
 }
 
 .header__span {

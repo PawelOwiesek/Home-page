@@ -1,15 +1,14 @@
 .footer {
-    margin-top: 60px;
-    background-color: #3d3636;
-    border: 2px solid #000000;
-    box-shadow: 13px -6px 19px 1px #12c0ff;
-    ;
-    overflow-x: auto;
+  margin-top: 60px;
+  background-color: #3d3636;
+  border: 2px solid #000000;
+  box-shadow: 13px -6px 19px 1px #12c0ff;
+  overflow-x: auto;
 }
 
 .footer__txt {
-    color: #f0f8ff;
-    font-size: 25px;
-    padding: 10px;
-    margin: 10px;
+  color: #f0f8ff;
+  font-size: 25px;
+  padding: 10px;
+  margin: 10px;
 }
